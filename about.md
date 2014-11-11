@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: /img/boludo.jpg
+image: /img/eu.jpg
 ---
 <img src="{{ page.image }}" width="100px" height="100px" style="float: left; margin: 4px;"/>
 Build breaker, troublemaker and consultant developer @ ThoughtWorks Brazil.
