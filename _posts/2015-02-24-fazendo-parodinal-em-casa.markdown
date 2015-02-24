@@ -13,9 +13,10 @@ Deixarei duas receitas para o Parodinal, uma utiliza sulfito de sódio e a outra
 
 Aqui em Porto Alegre foi bastante fácil de comprar o hidróxido de sódio e o metabissulfito de sódio. Por mais incrível que possa parecer, é mais fácil comprar estes químicos do que comprar 15g de paracetamol em pó… Vai entender…
 
-RECEITA 1
+### RECEITA 1
 
 Você vai precisar de:
+
 * 30 comprimidos de 500mg (ou 20 comprimidos de 750mg) de paracetamol ou 15 gramas de paracetamol em pó (boa sorte);
 * 50 gramas de sulfito de sódio;
 * 20 gramas de hidróxido de sódio;
@@ -28,9 +29,10 @@ Você vai precisar de:
 Preparo:
 Macere bem os comprimidos de paracetamol até que eles virem pó. Quanto mais fino o pó estiver, mais límpida será a solução final. No béquer, despeje os 250ml de água e os 15 gramas de paracetamol. Quando o paracetamol estiver diluído, adicione os 50 gramas de sulfito de sódio e continue mexendo até que o sulfito também seja diluído. Por fim, adicione o hidróxido de sódio. A reação será exotérmica (gerará calor), por isso é necessário ter um cuidado extra neste passo. Espere esfriar, mas sempre mexendo com o bastão de vidro.
 
-RECEITA 2
+### RECEITA 2
 
 Você vai precisar de:
+
 * 30 comprimidos de 500mg (ou 20 comprimidos de 750mg) de paracetamol ou 15 gramas de paracetamol em pó (boa sorte);
 * 38 gramas de metabissulfito de sódio;
 * 36 gramas de hidróxido de sódio;
@@ -49,6 +51,6 @@ Misture as soluções A e B no béquer de 300ml ou mais. Você deverá ter aprox
 
 Depois que a solução estiver pronta, despejar na garrafa ambar e aguardar 72hs antes de utilizar o revelador. Esta solução é estoque, isso significa que será diluída antes de utilizar. Você pode utilizar ela em diluições de até 1:100, o que a torna extremamente econômica.
 
-Dicas e observações:
+### Dicas e observações:
 
-– Diluição 1:50, por exemplo, significa que será utilizada 1 parte do revelador para 49 de água. Suponha que seu tanque de revelação possui 500ml, então serão utilizados 10ml de Parodinal em 490ml de água. Se você desejar fazer uma diluição 1:100, então serão utilizados 5ml de Parodinal e 495ml de água, e etc… Obviamente quando menor a concentração do revelador, maior o tempo de revelação.
+Diluição 1:50, por exemplo, significa que será utilizada 1 parte do revelador para 49 de água. Suponha que seu tanque de revelação possui 500ml, então serão utilizados 10ml de Parodinal em 490ml de água. Se você desejar fazer uma diluição 1:100, então serão utilizados 5ml de Parodinal e 495ml de água, e etc… Obviamente quando menor a concentração do revelador, maior o tempo de revelação.
