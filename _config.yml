@@ -2,7 +2,7 @@
 title: Don't try
 email: lucas.beier@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Random thoughts and some notes from a troubled mind.
+  Random thoughts.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://tutabeier.github.io/" # the base hostname & protocol for your site
 twitter_username: tutabeier
