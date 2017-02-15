@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Como fazer deploy do Ghost no Heroku"
+title:  "Using dynamic slaves on Jenkins"
 date:   2017-02-14 23:26
 categories: jenkins ci cd
 ---
