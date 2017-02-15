@@ -29,3 +29,6 @@ services:
     container_name: jenkins_slave
     image: evarga/jenkins-slave
 {% endhighlight %}
+
+And then ran a `docker-compose up`. After going through the initial Jenkins setup, I've configured the slave:
+![Slave config](/img/jenkins_slave_config.png)
