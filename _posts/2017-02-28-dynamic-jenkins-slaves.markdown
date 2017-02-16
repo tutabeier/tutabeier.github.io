@@ -13,22 +13,22 @@ So, in a in certain sense, the team does have some independency from the operati
 So I've started asking me one question: is there any way to have dynamic slaves and optimize the operation's team, development teams and do not underuse the executors on a slave?
 
 First of all, I've created this `docker-compose.yml` in order to spin up the master and slave easily:
-{% highlight yml %}
-version: '2'
-services:
-  jenkins:
-    container_name: jenkins_master
-    image: jenkins:alpine
-    ports:
-      - "8080:8080"
-      - "50000:50000"
-    links:
-      - jenkins_slave
+{% highlight dockerfile %}
+FROM jenkins:alpine
+MAINTAINER Lucas Beier <lucas.beier@gmail.com>
+USER root
 
-  jenkins_slave:
-    container_name: jenkins_slave
-    image: evarga/jenkins-slave
+RUN apk --update add docker
 {% endhighlight %}
 
-And then ran a `docker-compose up`. After going through the initial Jenkins setup, I've configured the slave:
-![Slave config](/img/jenkins_slave_config.png)
+And then I built and started the container:
+{% highlight bash%}
+docker build -t jenkins-docker .
+docker run -v /var/run/docker.sock:/var/run/docker.sock -p 8080:8080 -p 50000:50000 -it --rm jenkins-docker
+{% endhighlight %}
+
+After that I've installed the [Docker Plugin][docker_plugin] and configured it:
+![Docker plugin config](/img/jenkins_docker_plugin.png)
+
+
+[docker_plugin]: https://wiki.jenkins-ci.org/display/JENKINS/Docker+Plugin
