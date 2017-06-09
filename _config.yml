@@ -13,3 +13,5 @@ linkedin_username: lucasbeier
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-minimal
